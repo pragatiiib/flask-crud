@@ -84,5 +84,5 @@ java -jar jenkins.war --httpPort=8090
 Testing the trigger
 
 
-hello pipeline
+hello pipeline 123
 
