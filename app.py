@@ -21,7 +21,7 @@ def get_books():
             'id': row[0],
             'title': row[1],
             'author': row[2],
-            'published': row[3]
+
         }
         books.append(book)
     conn.close()
